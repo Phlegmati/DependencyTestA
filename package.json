@@ -1,0 +1,16 @@
+{
+    "name": "com.cura3d.dep-a",
+    "version": "0.0.1",
+    "displayName": "Dependency Test A",
+    "description": "This is a test package",
+    "unity": "2020.3",
+    "dependencies": {
+      "com.[company-name].some-package": "1.0.0",
+      "com.[company-name].other-package": "2.0.0"
+   },
+    "author": {
+      "name": "Nico",
+      "email": "nico.mahler@cura3d.de",
+      "url": "https://www.cura3d.de"
+    }
+  }
